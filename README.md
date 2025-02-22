@@ -22,7 +22,7 @@ Learn the basics of data cleaning using Excel.
 Steps to Complete:
 
 Import a sample dataset with errors (e.g., duplicate entries, missing values).
-Identify and correct these errors using Excel functions like REMOVE DUPLICATES, TRIM, and FIND & REPLACE.
+Identify and correct these errors using Advanced functions like REMOVE DUPLICATES, TRIM, and FIND & REPLACE.
 Save the cleaned dataset.
 Tools/Datasets/Platforms:
 
